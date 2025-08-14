@@ -16,6 +16,8 @@
 
 ### [My Custom VSCode Dark Theme](https://marketplace.visualstudio.com/items?itemName=classicrocker883.kazikame-dark): <sub>![VSCode Theme Downloads](https://img.shields.io/visual-studio-marketplace/d/classicrocker883.kazikame-dark)</sub>
 
+<img src="https://firebasestorage.googleapis.com/v0/b/vsix-e2247.appspot.com/o/screenshot-theme2.png?alt=media&amp;token=a929ce77-0541-43e0-90ef-a6042bde337f" width="732" height="412"></img>
+
 <br>
 
 ## Some of my skills
