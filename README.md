@@ -21,7 +21,7 @@
 <br>
 
 ## Some of my skills
-[![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,ubuntu,linux,debian,bash,powershell,raspberrypi,arduino,gmail,eclipse,github,git,md,html,css,js&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,py,ubuntu,linux,debian,bash,windows,powershell,raspberrypi,arduino,github,git,md,npm,nodejs,js,html,css,gmail,eclipse&theme=dark&perline=6)](https://skillicons.dev)
 
 <!--
 **classicrocker883/classicrocker883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
