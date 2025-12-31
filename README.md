@@ -10,7 +10,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=classicrocker883)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=classicrocker883&theme=dark&dates=EB5454&sideNums=33E026)](https://git.io/streak-stats)
 
 ---
 
