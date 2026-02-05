@@ -6,7 +6,7 @@
 ---
 ## Stats
 
-[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=classicrocker883)](https://github.com/classicrocker883/MRiscoCProUI)
+[![Andrew's GitHub stats](https://githubcard.com/classicrocker883.svg?d=tDj5cW5u)](https://githubcard.com)
 
 ---
 
